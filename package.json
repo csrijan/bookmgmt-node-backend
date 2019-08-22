@@ -1,0 +1,21 @@
+{
+  "name": "bookmgmt",
+  "version": "1.0.0",
+  "description": "back end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "REST",
+    "API"
+  ],
+  "author": "Srijan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "uuidv4": "^4.0.0"
+  }
+}
